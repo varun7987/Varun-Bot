@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "Yazkybot",
   "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
