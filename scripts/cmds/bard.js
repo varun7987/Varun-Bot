@@ -4,7 +4,7 @@ const cookie = 'g.a000gggofsT-eH4KIvq359t2PSkOCpfqw50IE922AbLD-vn8M1oZ5clc36fJT8
 
 module.exports = {
 	config: {
-		name: "bard",
+		name: "vaishu",
 		version: "1.0",
 		author: "rehat--",
 		countDown: 5,
