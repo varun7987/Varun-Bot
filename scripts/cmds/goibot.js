@@ -46,7 +46,7 @@ config: {
        };
 
        if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Admin kon hai")) {
-         return api.sendMessage("[𝐎𝐖𝐍𝐄𝐑: Vaishnavi ☜ \n   \n. Her 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :-https://www.facebook.com/The.QueenGirl.Haniya", threadID);
+         return api.sendMessage("[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙🇦𝖆🅳𝐢🎸 ☜ \n░█████╗░\n██╔══██╗\n███████║\n██╔══██║\n██║░░██║\n╚═╝░░╚═╝\n░█████╗░\n██╔══██╗\n███████║\n██╔══██║\n██║░░██║\n╚═╝░░╚═╝\n██████╗░\n██╔══██╗\n██║░░██║\n██║░░██║\n██████╔╝\n╚═════╝░\n  ██╗\n  ██║\n  ██║\n  ██║\n  ██║\n  ╚═╝ \n. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- www.facebook.com/100089550064027", threadID);
        };
 
       if ((event.body.toLowerCase() == "new movie") || (event.body.toLowerCase() == "latest movie")) {
@@ -94,7 +94,7 @@ config: {
        };
 
        if ((event.body.toLowerCase() == "Kon bnaya apko")) {
-         return api.sendMessage("My creater and edit me only My Owner Vaishnavi 😍❤️", threadID);
+         return api.sendMessage("My creater and edit me only My Owner Aadi Gupta 😍❤️", threadID);
        };
 
        if ((event.body.toLowerCase() == "gd evng") || (event.body.toLowerCase() == "good evening")) {
@@ -219,7 +219,7 @@ config: {
 
   if (event.body.indexOf("Bot") == 0 || (event.body.toLowerCase() == "bot") || (event.body.indexOf("বট") == 0)) {
     var msg = {
-      body:
+      body: ` ${rand}`
     }
     return api.sendMessage(msg, threadID, messageID);
   }
