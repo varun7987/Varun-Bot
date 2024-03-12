@@ -25,7 +25,7 @@ config: {
   var idgr = `${event.threadID}`;
   var id = event.senderID;
 
-  var Messages = ["Haaye Main Sadke jawa Teri Masoom Shakal pe😘🙈 " , "Bot Na Bol Oye Janu bol Mujhe🙆‍♂️🙈🦋🤍🍒🕊️🥀💗 " , "Han bol naa 🤬🤬🤬" , "Main Gareebon Se Bt Nhi kRta 😉😝😋🤪" , "Itna Na Pass aa Pyar h0 JayGa😝😋🤪" , "Bolo Babu Tum Mujhse Pyar Karte Ho Na 🙈 " , "Are jaan Majaak ke mood me nhi hu main jo kaam hai bol do sharmao nahi🎸🎭━━•☆°•°•💗" , "Tum wahi ho na 🤔jo bazar me chappal se pit rahe the🥱🥳" , "फ़िल्टर में रहने दो….🤔फ़िल्टर ना हटाओ, 🙂फ़िल्टर जो हट गया तो…बाबू डर जाएगा।😝😝🙈" , "Kyaa ho gyaa chhpri 🙂🙏" , "Are Band kar Brna amabani se bolke tera net bnd kra dunga" , "अब से रोज़ नहाने के लिए टॉस करूँगा, हेड आया तो नहीं नहाऊंगा, टेल आया तो फिर से टॉस करूँगा..!!🙈🤣🤣🤣" , "Tumko koi aur Kam nhi ha? Pura din Khate ho Aur Messenger pe Bot Bot Karte ho" , " घरवाले मर्ज़ी से हेअरकट तक तो कराने नहीं देते 👉🙂मर्ज़ी से शादी क्या घंटा करने देंगे 🤣🙊" , "Abhi Bola Toh Bola Dubara Mat Bolna" , "Bol De koi nahi dekh rha 🙄☢━💛🌹💛" , "Haaye Main Mar Jawa Babu Ek Chuma To Do Kafi Din Se Chumi Nahi Di 😝🦋🤍🍒🕊️🥀💗" , "Dur Hat Be Mujhe Aur Koi Kam Nahi Kya Har Waqt Mujhe Tang Kerte Rhte ho 😂" , "Are Bolo Meri Jaan Kya Hall Hai😚 " , "Chup Reh Nhi To Bahar Ake tera Dat Tod Dunga♡• || •___'[💔]~~🖤 " , "कुछ लोगों को मोहब्बत का ऐसा नशा चढ़ता है …की शायरी वो लिखते हैं दर्द पूरा फेसबुक सहन करता है।🙄🤦‍♂️", "teri yaad na aaye aisa roj hota hai😝🙈🙈🙈 " , "ससुराल जाने का सपना तो मेरा भी था पर setting धोका दे गयी 🙊🤣" , "हे भगवान् मुझे बेशक सिंगल रखना लेकिन सेटिंग उसकी भी मत होने देना …जिस से मेरी शादी होगी।🙆‍♂️🙆‍♂️🙈🤣 " , "🤣सर्दी का ये आलम है की …Lpg सिलेंडर 2 चेंज हो गए पानी गर्म करते करते 🤭🙄" , "sab logo ne hug day kiss day mna liya mujhe to kisi ne puchha bhi nhi 🤔🙈😝🎸🎭━━•☆°•°•💗"];
+  var Messages = ["Haaye Main Sadke jawa Teri Masoom Shakal pe😘🙈 " , "Bot Na Bol Oye Janu bol Mujhe🙆‍♂️🙈🦋🤍🍒🕊️🥀💗 " , "Han bol naa 🤬🤬🤬" , "soja Be lakadbagge😉😝😋🤪" , "Itna Na Pass aa Pyar h0 JayGa😝😋🤪" , "Bolo Babu Tum Mujhse Pyar Karte Ho Na 🙈 " , "Are jaan Majaak ke mood me nhi hu main jo kaam hai bol do sharmao nahi🎸🎭━━•☆°•°•💗" , "Tum wahi ho na 🤔jo bazar me chappal se pit rahe the🥱🥳" , "फ़िल्टर में रहने दो….🤔फ़िल्टर ना हटाओ, 🙂फ़िल्टर जो हट गया तो…बाबू डर जाएगा।😝😝🙈" , "Kyaa ho gyaa chhpri 🙂🙏" , "Are Band kar Brna ambani se bolke tera net bnd kra dungi" , "अब से रोज़ नहाने के लिए टॉस करुँगी, हेड आया तो नहीं नहाऊंगी, टेल आया तो फिर से टॉस करुँगी..!!🙈🤣🤣🤣" , "Tumko koi aur Kam nhi ha? Pura din Khate ho Aur Messenger pe Bot Bot Karte ho" , " घरवाले मर्ज़ी से हेअरकट तक तो कराने नहीं देते 👉🙂मर्ज़ी से शादी क्या घंटा करने देंगे 🤣🙊" , "Abhi Bola Toh Bola Dubara Mat Bolna" , "Bol De koi nahi dekh rha 🙄☢━💛🌹💛" , "Haaye Main Mar Jawa Babu Ek Chuma To Do Kafi Din Se Chumi Nahi Di 😝🦋🤍🍒🕊️🥀💗" , "Dur Hat Be Mujhe Aur Koi Kam Nahi Kya Har Waqt Mujhe Tang Kerte Rhte ho 😂" , "Are Bolo Meri Jaan Kya Hall Hai😚 " , "Chup Reh Nhi To Bahar Ake tera Dat Tod dungi• || •___'[💔]~~🖤 " , "कुछ लोगों को मोहब्बत का ऐसा नशा चढ़ता है …की शायरी वो लिखते हैं दर्द पूरा फेसबुक सहन करता है।🙄🤦‍♂️", "teri yaad na aaye aisa roj hota hai😝🙈🙈🙈 " , "ससुराल जाने का सपना तो मेरा भी था पर setting धोका दे गयी 🙊🤣" , "हे भगवान् मुझे बेशक सिंगल रखना लेकिन सेटिंग उसकी भी मत होने देना …जिस से मेरी शादी होगी।🙆‍♂️🙆‍♂️🙈🤣 " , "haye garmi 🥵🥵" , "sab logo ne hug day kiss day mna liya mujhe to kisi ne puchha bhi nhi 🤔🙈😝🎸🎭━━•☆°•°•💗"];
 
     var rand = Messages[Math.floor(Math.random() * Messages.length)]
 
@@ -46,7 +46,7 @@ config: {
        };
 
        if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Admin kon hai")) {
-         return api.sendMessage("[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙🇦𝖆🅳𝐢🎸 ☜ \n░█████╗░\n██╔══██╗\n███████║\n██╔══██║\n██║░░██║\n╚═╝░░╚═╝\n░█████╗░\n██╔══██╗\n███████║\n██╔══██║\n██║░░██║\n╚═╝░░╚═╝\n██████╗░\n██╔══██╗\n██║░░██║\n██║░░██║\n██████╔╝\n╚═════╝░\n  ██╗\n  ██║\n  ██║\n  ██║\n  ██║\n  ╚═╝ \n. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- www.facebook.com/100089550064027", threadID);
+         return api.sendMessage("[𝐎𝐖𝐍𝐄𝐑:☞➸⃝Vaishnavi ☜\n.Gupge 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- https://www.facebook.com/The.QueenGirl.Haniya", threadID);
        };
 
       if ((event.body.toLowerCase() == "new movie") || (event.body.toLowerCase() == "latest movie")) {
@@ -69,8 +69,8 @@ config: {
          return api.sendMessage("Ek thppad me nali me fek dunga🙏🙂", threadID);
        };
 
-       if ((event.body.toLowerCase() == "malik se BAKCHODI") || (event.body.toLowerCase() == "baap se bkwas")) {
-         return api.sendMessage("Sorry malik maaf kr do glti ho gyi🥺🙏", threadID);
+       if ((event.body.toLowerCase() == "malik se BAKCHODI") || (event.body.toLowerCase() == "bakchodi mat kr")) {
+         return api.sendMessage("Sorry vaishnavi maaf kr do glti ho gyi🥺🙏", threadID);
        };
 
        if ((event.body.toLowerCase() == "❤️") || (event.body.toLowerCase() == "🥰")) {
@@ -82,7 +82,7 @@ config: {
        };
 
        if ((event.body.toLowerCase() == "good night") || (event.body.toLowerCase() == "gn")) {
-         return api.sendMessage("Ok aap So jao thak gye ho hawabaazi krke🙏🙂😜", threadID);
+         return api.sendMessage("Ok aap So jao thak gye hoge hawabaazi krke🙏🙂😜", threadID);
        };
 
        if ((event.body.toLowerCase() == "lol bot")) {
@@ -94,7 +94,7 @@ config: {
        };
 
        if ((event.body.toLowerCase() == "Kon bnaya apko")) {
-         return api.sendMessage("My creater and edit me only My Owner Aadi Gupta 😍❤️", threadID);
+         return api.sendMessage("My creater and edit me only My Owner Vaishnavi 😍❤️", threadID);
        };
 
        if ((event.body.toLowerCase() == "gd evng") || (event.body.toLowerCase() == "good evening")) {
@@ -214,7 +214,7 @@ config: {
    };
 
   if ((event.body.toLowerCase() == "who are you") || (event.body.toLowerCase() == "who r u")) {
-     return api.sendMessage("I Am Aadi's, An AI Based Messenger Chatbot.", threadID, messageID);
+     return api.sendMessage("I Am Vaishnavi's, An AI Based Messenger Chatbot.", threadID, messageID);
    };
 
   if (event.body.indexOf("Bot") == 0 || (event.body.toLowerCase() == "bot") || (event.body.indexOf("বট") == 0)) {
