@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100000377396525",
+    "61552319105396",
     ""
   ],
   "whiteListMode": {
@@ -25,12 +25,12 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Vaishnavi",
-  "AGE": "18",
+  "OWNER": "VARUN CHOUDHARY",
+  "AGE": "20",
   "GENDER": "MALE",
   "nickNameBot": "•𝄟✮͢🦋⃟≛🇭asina🐰⃕⃝𒌋𝆺𝅥♥⃝🦋",
-  "FACEBOOK": "https://www.facebook.com/The.QueenGirl.Haniya",
-  "prefix": "#",
+  "FACEBOOK": "https://www.facebook.com/61552319105396",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
